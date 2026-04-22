@@ -1,5 +1,3 @@
-# sistema-financeiro-projeto-integrador
-
 # 💰 Sistema de Gestão Financeira Pessoal
 
 ## 📌 Descrição
@@ -59,6 +57,6 @@ python app.py
 
 🚧 Em desenvolvimento
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Seu nome aqui
+Adriel Costa Martins e Thais Silva Lopes
